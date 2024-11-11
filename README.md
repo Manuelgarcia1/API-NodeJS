@@ -62,9 +62,7 @@ El proyecto implementa un sistema de roles con JWT para autenticación, aseguran
 Se utiliza Nodemailer para el envío de correos electrónicos, lo que permite notificar a los usuarios sobre el estado de sus reclamos.
 Redis mejora la eficiencia al manejar el almacenamiento en caché, reduciendo el tiempo de respuesta en las consultas más frecuentes.
 
-## Autores ✒️
 
-#### Manuel Alejandro García
 
 
 
