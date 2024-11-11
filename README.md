@@ -65,7 +65,6 @@ Redis mejora la eficiencia al manejar el almacenamiento en caché, reduciendo el
 ## Autores ✒️
 
 #### Manuel Alejandro García
-#### Ignacio Jose Rocha
-#### Joel Elías Chasmann
+
 
 
